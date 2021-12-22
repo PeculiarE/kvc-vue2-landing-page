@@ -1,5 +1,3 @@
-# kvc-vue2-landing-page
-
 ## Project setup
 ```
 npm install
@@ -20,5 +18,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Hosting
+This app is hosted on Netlify and can be viewed at: https://vue2-landing-page.netlify.app/
